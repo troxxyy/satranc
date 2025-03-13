@@ -1,4 +1,6 @@
 # Welcome to Satranc
+You can view it in this coode
+https://satranc-eosin.vercel.app
 
 
 
